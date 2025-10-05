@@ -1,0 +1,28 @@
+@media (max-width: 768px) {
+    .header h1 {
+        font-size: 32px; /* Reduz o tamanho da fonte do título */
+        padding: 16px; /* Reduz o padding */
+    }
+
+    .header .subtitle {
+        font-size: 16px; /* Reduz o tamanho da fonte do subtítulo */
+        text-align: center; /* Centraliza o subtítulo */
+    }
+
+    .card-header {
+        font-size: 16px; /* Reduz o tamanho da fonte do cabeçalho do cartão */
+    }
+
+    .code-grid {
+        flex-direction: column; /* Empilha os itens verticalmente */
+    }
+
+    .code-card {
+        width: 100%; /* Cada cartão ocupa toda a largura */
+    }
+
+    .btn-magic {
+        padding: 12px 16px; /* Reduz o padding do botão */
+        font-size: 16px; /* Reduz o tamanho da fonte do botão */
+    }
+}

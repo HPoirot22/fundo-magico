@@ -1,0 +1,5 @@
+* { 
+    padding: 0; /*espaçamento interno*/
+    margin: 0; /*espaçamento externo*/
+    box-sizing: border-box; /*inclui bordas e preenchimento no tamanho total do elemento*/
+}
